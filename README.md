@@ -1,1 +1,3 @@
 # IOPWSZ
+
+czy widac
